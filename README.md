@@ -33,7 +33,8 @@ Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ cd tambot
+$ git clone https://github.com/Exait/Tambot.git
+$ cd Tambot
 $ npm install
 $ npm start
 ```
@@ -53,6 +54,7 @@ Open your favorite Terminal and run these commands.
 
 ```sh
 $ git clone https://github.com/Exait/Tambot.git
+$ cd Tambot
 $ npm install && npm start
 ```
 
