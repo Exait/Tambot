@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node tambot.js"
+    "start": "node tambot.js"
   },
   "repository": {
     "type": "git",
