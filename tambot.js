@@ -12,7 +12,7 @@ Client.on('ready', () => {
 })
 
 Client.on('message', msg => {
-
+	var tokens = msg.content.split(' ')
 })
 
 Client.login(Config['token'])
