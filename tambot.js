@@ -4,6 +4,7 @@ const Config = require('./config.json')
 const Firebase = require('firebase')
 Firebase.initializeApp(Config['firebase'])
 const Database = Firebase.database()
+const Prefix = "r!"
 
 Client.on('ready', () => {
 	console.log("Tambot -> Connected")
